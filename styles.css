@@ -2,16 +2,12 @@ body {
     background-image: linear-gradient(180deg, #9d48ec80,#d5a9ff80), url("https://www.colourbox.com/preview/18683996-asian-software-developers-business-people-sitting-desk-working.jpg");
   background-size: cover;
   background-position:60% 70%;
-  height: 500px;
-  width: 2000px;
+  height: 600px;
+  width: auto;
   margin-top: 100px;
-  margin-bottom: 100px;
-  margin-left: 100px;
-  margin-right: 100px;
 }
-
-้้h1,p{s
-    text-align: center;
+h1,p{
+ text-align:center;
 }
 
 form {
@@ -21,4 +17,8 @@ padding: 5px;
 background-color:#1b1b32;
 color: rgb(255,255,255);
 width: 500px;
+margin-top: 60px;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
 }

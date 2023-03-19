@@ -1,13 +1,19 @@
+html, body {
+    min-height: 100vh;
+  }
+  
+
 body {
-    background-image: linear-gradient(180deg, #9d48ec80,#d5a9ff80), url("https://www.colourbox.com/preview/18683996-asian-software-developers-business-people-sitting-desk-working.jpg");
-  background-size: cover;
-  background-position:60% 70%;
-  height: 600px;
-  width: auto;
-  margin-top: 100px;
-}
+    background-image: linear-gradient(180deg, #37026880,#d2bae980), url("https://www.colourbox.com/preview/18683996-asian-software-developers-business-people-sitting-desk-working.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;  
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  
 h1,p{
  text-align:center;
+ color: white;
 }
 
 form {

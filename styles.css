@@ -85,8 +85,15 @@ input[type="radio"]{
     margin: 5px;
 }
 
-label [id="dropdown-label2"]{
-    display: block;
+#recommend-label{
+    margin-top: 40px;
+}
+
+#dropdown-label2{
+    margin-top: 40px;
+}
+
+#improved-label{
     margin-top: 40px;
 }
 

@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(180deg, #9d48ec80,#d5a9ff80) url("https://www.colourbox.com/preview/18683996-asian-software-developers-business-people-sitting-desk-working.jpg");
+    background-image: linear-gradient(180deg, #9d48ec80,#d5a9ff80), url("https://www.colourbox.com/preview/18683996-asian-software-developers-business-people-sitting-desk-working.jpg");
   background-size: cover;
   background-position:60% 70%;
   height: 500px;

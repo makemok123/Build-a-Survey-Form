@@ -1,30 +1,34 @@
-html, body {
+html,
+body {
     min-height: 100vh;
-  }
-  
+}
+
 
 body {
-    background-image: linear-gradient(180deg, #37026880,#d2bae980), url("https://www.colourbox.com/preview/18683996-asian-software-developers-business-people-sitting-desk-working.jpg");
+    background-image: linear-gradient(180deg, #37026880, #d2bae980), url("https://www.colourbox.com/preview/18683996-asian-software-developers-business-people-sitting-desk-working.jpg");
     background-size: cover;
-    background-repeat: no-repeat;  
+    background-repeat: no-repeat;
     margin-top: 100px;
-    margin-bottom: 100px;
-  }
-  
-h1,p{
- text-align:center;
- color: white;
+}
+
+h1,
+p {
+    text-align: center;
+    color: white;
 }
 
 form {
-border: 5px solid #1b1b32;
-border-radius: 5px;
-padding: 5px;
-background-color:#1b1b32;
-color: rgb(255,255,255);
-width: 500px;
-margin-top: 60px;
-margin-bottom: auto;
-margin-left: auto;
-margin-right: auto;
+    border: 5px solid #1b1b32;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #1b1b32;
+    color: rgb(255, 255, 255);
+    width: 500px;
+    margin-top: 60px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+label,input,button{
+    display: block;
 }

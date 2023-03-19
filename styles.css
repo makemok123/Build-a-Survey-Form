@@ -60,11 +60,25 @@ input[type="radio"],[type="checkbox"] {
     box-sizing: border-box;    
 }
 
-#dropdown1{
+#dropdown{
     width: 93%;
     height: 40px;
     font-size: 20px;
     box-sizing: border-box;    
 }
 
+input[type="radio"]{
+    margin: 5px;
+}
+
+#dropdown-label2{
+    margin-top: 1000px !important;
+}
+
+#dropdown2{
+    width: 93%;
+    height: 40px;
+    font-size: 20px;
+    box-sizing: border-box;    
+}
   

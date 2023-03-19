@@ -5,9 +5,11 @@ body {
 
 
 body {
-    background-image: linear-gradient(180deg, #37026880, #d2bae980), url("https://www.colourbox.com/preview/18683996-asian-software-developers-business-people-sitting-desk-working.jpg");
+    background-image: linear-gradient(180deg, #1f033880, #b98fe080), url("https://www.colourbox.com/preview/18683996-asian-software-developers-business-people-sitting-desk-working.jpg");
+    background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: 100% 80%;
     margin-top: 100px;
 }
 
@@ -18,16 +20,17 @@ p {
 }
 
 form {
-    border: 5px solid #1b1b32;
+    border: 5px solid #1b1b3280;
     border-radius: 5px;
     padding: 5px;
-    background-color: #1b1b32;
+    background-color: #1b1b3295;
     color: rgb(255, 255, 255);
     width: 500px;
     margin-top: 60px;
     margin-bottom: auto;
     margin-left: auto;
     margin-right: auto;
+    font-size: 18px;
 }
 label,input,button,select,textarea{
     display: block;

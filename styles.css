@@ -32,88 +32,81 @@ form {
     margin-right: auto;
     font-size: 20px;
 }
-label,input,button,select,textarea{
+
+label,
+input,
+button,
+select,
+textarea {
     display: block;
     margin: 20px;
 }
 
-input[type="radio"]{
-    display: inline-block;
-    margin-left: 40px;    
-    margin-right: 5px;
-    margin-top: 5px;
-    margin-bottom: 5px;
-  }
-
-
+input[type="radio"],
 input[type="checkbox"] {
     display: inline-block;
-    margin-left: 40px;    
-    margin-right: 5px;
+    margin-left: 40px;
+    margin-right: 10px;
     margin-top: 5px;
     margin-bottom: 5px;
-  }
+}
 
-#number-label{
+#number-label {
     margin-top: -10px;
     display: flex;
     align-items: center;
 }
 
-#number2{
+#number2 {
     font-size: 15px;
     margin-left: 5px;
     margin-bottom: 15px;
 }
 
-#name{
-  width: 93%;
-  height: 30px;
-  font-size: 20px;
-  box-sizing: border-box;
-}
-
-#email{
+#name {
     width: 93%;
     height: 30px;
     font-size: 20px;
-    box-sizing: border-box;    
+    box-sizing: border-box;
 }
 
-#number{
+#email {
+    width: 93%;
+    height: 30px;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+
+#number {
     margin-top: -15px;
     width: 93%;
     font-size: 20px;
     height: 30px;
-    box-sizing: border-box;    
+    box-sizing: border-box;
 }
 
-#dropdown{
+#dropdown {
     width: 93%;
     height: 40px;
     font-size: 20px;
-    box-sizing: border-box;    
+    box-sizing: border-box;
 }
 
-input[type="radio"]{
-    margin: 5px;
-}
-
-#recommend-label{
+#recommend-label {
     margin-top: 40px;
 }
 
-#dropdown-label2{
+#dropdown-label2 {
     margin-top: 40px;
 }
 
-#improved-label{
+#improved-label {
     margin-top: 40px;
 }
 
-#dropdown2{
+#dropdown2 {
     width: 93%;
     height: 40px;
     font-size: 20px;
-    box-sizing: border-box;    
+    box-sizing: border-box;
 }

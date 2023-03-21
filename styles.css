@@ -112,11 +112,17 @@ input[type="checkbox"] {
 }
 
 textarea{
-    width: 93%;
+    width: 92%;
     height: 150px;
     font-size: 20px;
 }
 
 #submit{
     width: 93%;
+    height: 40px;
+    font-size: 20px;
+    background-color: rgb(88, 202, 88);
+    color: white;
+    border: none;
+    margin-top: 30px;
 }

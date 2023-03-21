@@ -68,7 +68,7 @@ input[type="checkbox"] {
 #number,
 #dropdown {
     width: 93%;
-    height: 30px;
+    height: 40px;
     font-size: 20px;
     box-sizing: border-box;
 }

@@ -116,3 +116,7 @@ textarea{
     height: 150px;
     font-size: 20px;
 }
+
+#submit{
+    width: 93%;
+}

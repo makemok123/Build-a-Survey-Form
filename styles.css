@@ -63,14 +63,10 @@ input[type="checkbox"] {
     margin-bottom: 15px;
 }
 
-#name {
-    width: 93%;
-    height: 30px;
-    font-size: 20px;
-    box-sizing: border-box;
-}
-
-#email {
+#name,
+#email,
+#number,
+#dropdown {
     width: 93%;
     height: 30px;
     font-size: 20px;
@@ -79,17 +75,6 @@ input[type="checkbox"] {
 
 #number {
     margin-top: -15px;
-    width: 93%;
-    font-size: 20px;
-    height: 30px;
-    box-sizing: border-box;
-}
-
-#dropdown {
-    width: 93%;
-    height: 40px;
-    font-size: 20px;
-    box-sizing: border-box;
 }
 
 #recommend-label {
@@ -111,13 +96,13 @@ input[type="checkbox"] {
     box-sizing: border-box;
 }
 
-textarea{
+textarea {
     width: 92%;
     height: 150px;
     font-size: 20px;
 }
 
-#submit{
+#submit {
     width: 93%;
     height: 40px;
     font-size: 20px;
